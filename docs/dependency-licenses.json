@@ -1,0 +1,161 @@
+{
+  "MIT": [
+    {
+      "name": "@babel/runtime",
+      "versions": ["7.29.10"],
+      "license": "MIT",
+      "author": "The Babel Team",
+      "homepage": "https://babel.dev/docs/en/next/babel-runtime",
+      "description": "babel's modular runtime helpers"
+    },
+    {
+      "name": "@react-three/fiber",
+      "versions": ["9.8.2"],
+      "license": "MIT",
+      "author": "Paul Henschel",
+      "homepage": "https://github.com/pmndrs/react-three-fiber#readme",
+      "description": "A React renderer for Threejs"
+    },
+    {
+      "name": "@types/react",
+      "versions": ["19.3.0"],
+      "license": "MIT",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
+      "description": "TypeScript definitions for react"
+    },
+    {
+      "name": "@types/react-reconciler",
+      "versions": ["0.28.9"],
+      "license": "MIT",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-reconciler",
+      "description": "TypeScript definitions for react-reconciler"
+    },
+    {
+      "name": "@types/webxr",
+      "versions": ["0.5.24"],
+      "license": "MIT",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webxr",
+      "description": "TypeScript definitions for webxr"
+    },
+    {
+      "name": "base64-js",
+      "versions": ["1.5.1"],
+      "license": "MIT",
+      "author": "T. Jameson Little",
+      "homepage": "https://github.com/beatgammit/base64-js",
+      "description": "Base64 encoding/decoding in pure JS"
+    },
+    {
+      "name": "buffer",
+      "versions": ["6.0.3"],
+      "license": "MIT",
+      "author": "Feross Aboukhadijeh",
+      "homepage": "https://github.com/feross/buffer",
+      "description": "Node.js Buffer API, for the browser"
+    },
+    {
+      "name": "csstype",
+      "versions": ["3.2.3"],
+      "license": "MIT",
+      "author": "Fredrik Nicol",
+      "homepage": "https://github.com/frenic/csstype#readme",
+      "description": "Strict TypeScript and Flow types for style based on MDN data"
+    },
+    {
+      "name": "its-fine",
+      "versions": ["2.1.1"],
+      "license": "MIT",
+      "author": "Cody Bennett",
+      "homepage": "https://github.com/pmndrs/its-fine",
+      "description": "A collection of escape hatches for React."
+    },
+    {
+      "name": "react",
+      "versions": ["19.3.1"],
+      "license": "MIT",
+      "homepage": "https://react.dev/",
+      "description": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "name": "react-dom",
+      "versions": ["19.3.1"],
+      "license": "MIT",
+      "homepage": "https://react.dev/",
+      "description": "React package for working with the DOM."
+    },
+    {
+      "name": "react-use-measure",
+      "versions": ["2.1.7"],
+      "license": "MIT",
+      "author": "Paul Henschel",
+      "homepage": "https://github.com/pmndrs/react-use-measure",
+      "description": "Utility to measure view bounds"
+    },
+    {
+      "name": "scheduler",
+      "versions": ["0.28.0"],
+      "license": "MIT",
+      "homepage": "https://react.dev/",
+      "description": "Cooperative scheduler for the browser environment."
+    },
+    {
+      "name": "suspend-react",
+      "versions": ["0.1.3"],
+      "license": "MIT",
+      "author": "Paul Henschel",
+      "homepage": "https://github.com/pmndrs/suspend-react#readme",
+      "description": "Integrate React Suspense into your apps"
+    },
+    {
+      "name": "three",
+      "versions": ["0.180.0"],
+      "license": "MIT",
+      "author": "mrdoob",
+      "homepage": "https://threejs.org/",
+      "description": "JavaScript 3D library"
+    },
+    {
+      "name": "use-sync-external-store",
+      "versions": ["1.7.0"],
+      "license": "MIT",
+      "homepage": "https://github.com/react/react#readme",
+      "description": "Backwards compatible shim for React's useSyncExternalStore. Works with any React that supports hooks."
+    },
+    {
+      "name": "zustand",
+      "versions": ["5.0.16"],
+      "license": "MIT",
+      "author": "Paul Henschel",
+      "homepage": "https://github.com/pmndrs/zustand",
+      "description": "🐻 Bear necessities for state management in React"
+    }
+  ],
+  "OFL-1.1": [
+    {
+      "name": "@fontsource-variable/dm-sans",
+      "versions": ["5.3.0"],
+      "license": "OFL-1.1",
+      "author": "Google Inc.",
+      "homepage": "https://fontsource.org/fonts/dm-sans",
+      "description": "Self-host the DM Sans font in a neatly bundled NPM package."
+    },
+    {
+      "name": "@fontsource-variable/space-grotesk",
+      "versions": ["5.3.0"],
+      "license": "OFL-1.1",
+      "author": "Google Inc.",
+      "homepage": "https://fontsource.org/fonts/space-grotesk",
+      "description": "Self-host the Space Grotesk font in a neatly bundled NPM package."
+    }
+  ],
+  "BSD-3-Clause": [
+    {
+      "name": "ieee754",
+      "versions": ["1.2.1"],
+      "license": "BSD-3-Clause",
+      "author": "Feross Aboukhadijeh",
+      "homepage": "https://github.com/feross/ieee754#readme",
+      "description": "Read/write IEEE754 floating point numbers from/to a Buffer or array-like object"
+    }
+  ]
+}
